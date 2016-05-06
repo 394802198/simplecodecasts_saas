@@ -1,7 +1,9 @@
 == README
 
 Coder Manual Project Application
-Subscription-based web application view on http://pacific-meadow-27781.herokuapp.com/
+Subscription-based web application
+
+View Project on {Heroku}[http://pacific-meadow-27781.herokuapp.com]
 
 
 Things you may want to cover:
